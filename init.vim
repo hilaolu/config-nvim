@@ -12,6 +12,8 @@ noremap <C-j> 0
 noremap <C-l> 8j
 noremap <C-;> $
 
+noremap <C-c> ee 
+
 imap jj <Esc>
 
 set tabstop=4       " number of visual spaces per TAB
